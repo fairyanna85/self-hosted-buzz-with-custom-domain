@@ -1,5 +1,7 @@
 # Self-Hosted Buzz with Custom Domain
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ---
 
 ## What and Why?
